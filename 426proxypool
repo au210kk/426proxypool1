@@ -1,8 +1,6 @@
 pkg i golang -y
 mkdir ~/proxypool && cd ~/proxypool && wget "https://github.com/au210kk/426proxypool/releases/download/123/proxypool-linux-amd64" 
 mv proxypool-linux-amd64 proxypool
-proxypool=$(ls ~/proxypool)
-wget install chmod
 chmod -R 777 ~/proxypool
 wget -P ~/proxypool https://raw.githubusercontent.com/au210kk/426proxypool1/main/config
 wget -P ~/proxypool https://raw.githubusercontent.com/au210kk/426proxypool1/main/source.yaml
