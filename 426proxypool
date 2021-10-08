@@ -6,4 +6,3 @@ wget -P ~/proxypool https://raw.githubusercontent.com/au210kk/426proxypool1/main
 wget -P ~/proxypool https://raw.githubusercontent.com/au210kk/426proxypool1/main/source.yaml
 wget -N "https://raw.githubusercontent.com/au210kk/426proxypool1/main/jiaoben"
 chmod +x jiaoben
-rm 426proxypool
