@@ -1,1 +1,1 @@
-cd ~/proxypool && go run main.go -c ./config/config.yaml
+cd ~/proxypool && nohup ./proxypool -c config.yaml 1
