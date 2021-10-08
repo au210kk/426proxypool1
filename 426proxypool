@@ -5,5 +5,5 @@ chmod -R 777 ~/proxypool
 wget -P ~/proxypool https://raw.githubusercontent.com/au210kk/426proxypool1/main/config
 wget -P ~/proxypool https://raw.githubusercontent.com/au210kk/426proxypool1/main/source.yaml
 wget -N "https://raw.githubusercontent.com/au210kk/426proxypool1/main/jiaoben"
-chmod +x proxypool.sh
-rm install.sh
+chmod +x jiaoben
+rm 426proxypool
